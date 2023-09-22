@@ -108,6 +108,10 @@ footer {
   font-size: 0.8em;
 }
 
+section{
+  padding-left:2px
+}
+
 @media (min-width: 800px) {
   section {
     display: grid;
